@@ -16,8 +16,8 @@
 		<version>7</version>
 	</parent>
 
-	<groupId>com.polysfactory</groupId>
-	<artifactId>guitarparty-java</artifactId>
+	<groupId>com.polysfactory.lib.guitarparty</groupId>
+	<artifactId>guitarparty</artifactId>
 	<version>0.1.0-SNAPSHOT</version>
 
 	<name>Guitarparty API library</name>

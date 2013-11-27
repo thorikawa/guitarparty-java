@@ -1,0 +1,13 @@
+.classpath
+.project
+.settings
+
+bin
+target
+release.properties
+
+.idea
+*.iml
+
+.DS_Store
+

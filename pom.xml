@@ -17,7 +17,7 @@
 
 	<groupId>com.polysfactory.lib.guitarparty</groupId>
 	<artifactId>guitarparty</artifactId>
-	<version>0.1.0</version>
+	<version>0.1.1-SNAPSHOT</version>
 
 	<name>Guitarparty API library</name>
 	<description>Java client library for Guitarparty API &lt;http://www.guitarparty.com/developers/api-docs/getting-started/&gt;</description>
